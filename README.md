@@ -12,3 +12,6 @@ Try to click a button exactly 3 seconds after it turns from "Start" to "Stop"! â
 - Youâ€™ll get feedback in color (green, blue, yellow, red) based on how close you were.
 
 
+## 
+- GitHub Repo: [https://github.com/abigailzel/click-in-3-secondsss](https://github.com/abigailzel/click-in-3-secondssss)
+- GitHub Pages: [https://abigailzel.github.io/click-in-3-secondsss](https://abigailzel.github.io/click-in-3-secondssss)

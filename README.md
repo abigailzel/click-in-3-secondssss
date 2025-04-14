@@ -3,7 +3,7 @@
 Try to click a button exactly 3 seconds after it turns from "Start" to "Stop"! ⏱️
 
 ### Live Site
-[Click here to play](https://abigailzel.github.io/click-in-3-secondsss)
+[Click here to play](https://abigailzel.github.io/click-in-3-secondssss)
 
 ### How It Works
 - Press "Start" to begin.
@@ -11,8 +11,4 @@ Try to click a button exactly 3 seconds after it turns from "Start" to "Stop"! �
 - Click "Stop" to test your timing.
 - You’ll get feedback in color (green, blue, yellow, red) based on how close you were.
 
-### Tech Used
-- HTML
-- CSS
-- JavaScript
 

@@ -1,6 +1,6 @@
 # click-in-3-secondssss
 
-Try to click a button exactly 3 seconds after it turns from "Start" to "Stop"! ⏱️
+Try to click a button exactly 3 seconds after it turns from "Start" to "Stop"! 
 
 ### Live Site
 [Click here to play](https://abigailzel.github.io/click-in-3-secondssss)

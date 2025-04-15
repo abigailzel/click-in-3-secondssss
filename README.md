@@ -15,3 +15,4 @@ Try to click a button exactly 3 seconds after it turns from "Start" to "Stop"! â
 ## 
 - GitHub Repo: [https://github.com/abigailzel/click-in-3-secondsss](https://github.com/abigailzel/click-in-3-secondssss)
 - GitHub Pages: [https://abigailzel.github.io/click-in-3-secondsss](https://abigailzel.github.io/click-in-3-secondssss)
+![image](https://github.com/user-attachments/assets/d7dc05a0-27d0-4409-9ad8-20a9f2dca368)
